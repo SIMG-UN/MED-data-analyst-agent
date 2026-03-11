@@ -1,0 +1,39 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+env/
+venv/
+*.egg-info/
+.coverage
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Build artifacts
+dist/
+build/
+
+# Testing and linting
+.pytest_cache/
+
+# Specific files
+.env # Environment variables, might contain sensitive data
+
+
+# Otros
+.txt
+_docs/
+z.txt
+z1.py
+z2.py
+.vols/
+.logs/
